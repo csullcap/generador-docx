@@ -1,0 +1,17 @@
+{
+  "name": "generador-de-docxs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "docxtemplater": "^3.61.1",
+    "pizzip": "^3.1.8"
+  }
+}
