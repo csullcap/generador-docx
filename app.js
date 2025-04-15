@@ -32,10 +32,10 @@ const formatData = (data) => {
     total: data.total,
     nsp_mat: data.nsp_mat,
     ap_mat: data.ap_mat,
-    dp_mat: data.ds_mat,
+    dp_mat: data.dp_mat,
     nsp_rv: data.nsp_rv,
     ap_rv: data.ap_rv,
-    dp_rv: data.ds_rv,
+    dp_rv: data.dp_rv,
     alumnos: alumnos_,
   };
 };
